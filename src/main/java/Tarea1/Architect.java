@@ -1,4 +1,4 @@
-package Exercise_01;
+package Tarea1;
 
 public class Architect {
     
